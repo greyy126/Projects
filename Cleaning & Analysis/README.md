@@ -17,6 +17,7 @@ Checked and converted 'gdp_per_capita ($)' to two decimal places.
 Rounded 'suicides/100k pop' and 'HDI for year' columns to three decimal places for better understanding.
 
 **Analysis (Using Tableau Dashboard):** 
+
 The dashboard is titled "Suicide Rates Dashboard" and it shows data on suicide rates by country, year, and gender. The top of the dashboard shows the average number of suicides for females and males, with 7,255,979 for females and 7,178,929 for males. The bar can also be used as a filter for the rest of the graphs to determine the difference between males and females.
 
 The left side of the dashboard shows a graph of suicide rates by country. The colors on each part of the map describe the number of suicides in that particular continent. The highest number of suicides is recorded in Russia with a sum of 1,241,820.
