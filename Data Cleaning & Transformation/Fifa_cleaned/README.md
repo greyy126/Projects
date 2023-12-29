@@ -25,7 +25,7 @@ Provided more descriptive column names: "Height in cm" and "Weight in kg."
 Contract Status Simplification:
 Simplified the "Contract" column into insightful categories like "ON LOAN," "CONTRACT OVER," "NOT ON CONTRACT," and "ONGOING."
 
-Date Management:
+Data Management:
 Dissected "Joined" into individual columns for month, date, and year, fostering better temporal analysis.
 
 Currency Conversion:
