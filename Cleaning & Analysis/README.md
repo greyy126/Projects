@@ -1,12 +1,13 @@
 The dataset contains information on global suicides, with details such as the number of suicides, GDP per capita, and Human Development Index (HDI) for various countries.
 
 **Summary:** 
+
 Handling Missing Values:
 Checked for and displayed the count of missing values in each column.
 
 Data Cleaning:
 Dropped the 'country-year' column
-Renamed the column ' gdp_for_year ($) ' to 'gdp_for_year($)' for easier access.
+Renamed the column ' gdp_for_year ($)' to 'gdp_for_year($)' for easier access.
 Applied a custom function remove_num to handle scientific notation in the 'gdp_for_year($)' column.
 Removed unwanted characters in the 'gdp_for_year($)' column for easier conversion.
 
