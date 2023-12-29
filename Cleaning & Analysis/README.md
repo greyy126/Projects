@@ -23,12 +23,19 @@ The left side of the dashboard shows a graph of suicide rates by country. The co
 
 The right side of the dashboard shows a graph of suicide rates about generation-wise distribution. 
 Suicide rate as per the average generation population:
+
 Gen z - 0.08
+
 Gi - 0.02
+
 Boomers - 0.07
+
 Millennials - 0.3
+
 Silent - 0.1
+
 Gen x - 0.08
+
 As per the above table, millennials have the highest suicide rate.
 
 The bottom of the dashboard shows a graph of yearly trends. According to the line chart, the year 1995 peaked in terms of suicide per 100k population.
