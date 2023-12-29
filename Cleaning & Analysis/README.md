@@ -7,12 +7,12 @@ Checked for and displayed the count of missing values in each column.
 
 Data Cleaning:
 Dropped the 'country-year' column
-Renamed the column ' gdp_for_year ($)' to 'gdp_for_year($)' for easier access.
-Applied a custom function remove_num to handle scientific notation in the 'gdp_for_year($)' column.
+Renamed the column gdp_for_year ($) to gdp_for_year($) for easier access.
+Applied a custom function remove_num to handle scientific notation in the gdp_for_year($) column.
 Removed unwanted characters in the 'gdp_for_year($)' column for easier conversion.
 
 Data Type Conversion:
-Converted 'suicides_no' and 'gdp_for_year($)' columns to integers using astype(int).
+Converted suicides_no and gdp_for_year($) columns to integers using astype(int).
 Checked and converted 'gdp_per_capita ($)' to two decimal places.
 Rounded 'suicides/100k pop' and 'HDI for year' columns to three decimal places for better understanding.
 
