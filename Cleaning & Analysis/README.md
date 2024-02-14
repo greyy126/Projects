@@ -1,3 +1,5 @@
+Tableau Visualization link : https://us-west-2b.online.tableau.com/#/site/datavismadison/views/AnalysisonSuicideRatesDashboard/Dashboard1
+
 The dataset contains information on global suicides, with details such as the number of suicides, GDP per capita, and Human Development Index (HDI) for various countries.
 
 **Summary:** 
@@ -42,5 +44,4 @@ As per the above table, millennials have the highest suicide rate.
 The bottom of the dashboard shows a graph of yearly trends. According to the line chart, the year 1995 peaked in terms of suicide per 100k population.
 
 Overall, the dashboard shows that suicide rates are higher for males than females and that they have been kind of decreasing for both males and females in recent years. 
-
-Tableau Visualization link : https://us-west-2b.online.tableau.com/#/site/datavismadison/views/AnalysisonSuicideRatesDashboard/Dashboard1 
+ 
